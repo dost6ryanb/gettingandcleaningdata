@@ -5,7 +5,7 @@ GIT repository for Getting and Cleaning Data Course Project in R for Coursera.or
 
 # Tidy Dataset
 This data was generated using the UCI Human Activity Recognition Using Smartphones Dataset.
-The training set and test set were merged while extracting only the measurements on the mean and standard deviation for each measurement. The data process to generate the average of
+The training set and test set were merged while extracting only the measurements on the mean and standard deviation for each measurement. The data were processed to generate the average of
 each variable for each activity and each subject.
 
 # Files
